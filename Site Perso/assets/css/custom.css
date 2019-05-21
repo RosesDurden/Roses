@@ -1,0 +1,13 @@
+.dark, .nav-vertical>li.active>a, .nav-vertical>li>a.active {
+    color: #282828;
+}
+
+.text-md{
+	font-size: 14px;
+}
+
+.entete{
+    color: #dd4646;
+    background-color: #C1C1C1;
+    display: inline;
+}
